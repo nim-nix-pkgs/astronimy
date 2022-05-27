@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652791283,
-        "narHash": "sha256-vyAJSnOJQKtSJVcF1OpD0aHisoFytBI4ZZ9A72Ve1fc=",
+        "lastModified": 1652796693,
+        "narHash": "sha256-Gce7FUy8e8TSPl+YURf+7P2LXrASaX+EU16/bT7R6Go=",
         "owner": "nim-nix-pkgs",
         "repo": "astronimy",
-        "rev": "32945c73f771be2d489baed6e03565b7facfa85f",
+        "rev": "461190bdb8b69e073191ce516f8286f7c5d5e277",
         "type": "github"
       },
       "original": {
